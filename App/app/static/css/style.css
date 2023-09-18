@@ -1,0 +1,29 @@
+*{
+    font-family: Tahoma;
+}
+
+
+.menu{
+    width:100%;
+    background-color: lightblue;
+    height:600px;
+    margin:20px;
+}
+.schelude-form {
+  background-color: rgb(250, 250, 250);
+  width: 40%;
+  height: 400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column
+}
+.schelude-form .child-div {
+
+  margin: 10px;
+}
+.selectpicker {
+    width: 500px;
+}
+.space {
+    margin-right: 50px;
+}
